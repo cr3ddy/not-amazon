@@ -1,0 +1,73 @@
+{
+  "pack_version": "v1.0.0",
+  "freeze": true,
+  "change_rule": "Templates updated only via PR with manifest version/checksum update.",
+  "file_count": 13,
+  "files": [
+    {
+      "path": "templates/README.md",
+      "sha256": "d21a005e898732b3eb01d563f3aea67df94d0894580e2cd312948c85baaab848",
+      "bytes": 546
+    },
+    {
+      "path": "templates/governance/definition_of_done.md",
+      "sha256": "b2edddbc975e3711bd5dd0634ef631199adb783fe16ff107d4115e16ad3460f9",
+      "bytes": 484
+    },
+    {
+      "path": "templates/governance/coding_testing_standards.md",
+      "sha256": "c3e37e5f218ba320ec2e128b1a5d6d90d9d0c45356a851bb7f11e5aa7ec3012d",
+      "bytes": 640
+    },
+    {
+      "path": "templates/jira/story_template.md",
+      "sha256": "4563f91af5aa34f796daa487d3647aae731df1f4fc7ab75dc8604fd29f374c1e",
+      "bytes": 451
+    },
+    {
+      "path": "templates/jira/bug_template.md",
+      "sha256": "1d75efaab12cbd0e6521a55e7aa166c3b82e7916b4f33bf369a386b0e866a12f",
+      "bytes": 353
+    },
+    {
+      "path": "templates/jira/spike_template.md",
+      "sha256": "4f415e979eb3c7f7a242de35f1023acee310e0152cba3a6157f4d17d4bad18ea",
+      "bytes": 264
+    },
+    {
+      "path": "templates/jira/subtask_template.md",
+      "sha256": "3b19e7397f4ee9d3fc850d8dcf65c4b92db7750182e6fcb6cb2bc809012fdf84",
+      "bytes": 184
+    },
+    {
+      "path": "templates/pr/pull_request_template.md",
+      "sha256": "1812f3405fad9433579e674abd5f5a3134764f1b2c981d27a643f8ac8faaf7e1",
+      "bytes": 470
+    },
+    {
+      "path": "templates/pr/release_checklist.md",
+      "sha256": "344050487c8fa903e94480e22a1959583179af8aed3861efa68231dd986365e9",
+      "bytes": 253
+    },
+    {
+      "path": "templates/architecture/adr_template.md",
+      "sha256": "6e9ec2d579cd05fed129247b236ab56b93883dbc6118e0fee84fdf8ab1489327",
+      "bytes": 197
+    },
+    {
+      "path": "templates/operations/runbook_template.md",
+      "sha256": "1dbef390a04f788b303396d71017519ca9d30ad58cf1e20524be3c10643c79a8",
+      "bytes": 191
+    },
+    {
+      "path": "templates/security/threat_checklist.md",
+      "sha256": "6733f53cf6f13c7407857f6b0ae65d8c5d1a60b0734775d1c697bdb5f2fbc814",
+      "bytes": 584
+    },
+    {
+      "path": "templates/testing/test_plan_template.md",
+      "sha256": "f477683d1d355a097e1ff1f65a2c6cd37d56c0049483f0faf69f3a7f181f1f7e",
+      "bytes": 361
+    }
+  ]
+}
