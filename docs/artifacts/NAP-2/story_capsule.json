@@ -1,0 +1,16 @@
+{
+  "issue_key": "NAP-2",
+  "title": "View Item Details",
+  "goal": "As a user, I want to click on a specific item to see its full details so that I can view the complete description and metadata.",
+  "acceptance_criteria": [
+    "**Scenario: Viewing specific item details** \n\n **Given** I am on the main inventory list\n\n **When** I click on a specific item row or name\n\n **Then** I should be redirected to a detailed view page\n\n **And** I should see the full Description, Image, Category, SKU, Price, and 'Date Last Updated' ",
+    "**Acceptance Criteria: Detailed View Page** \n\n  * The detailed view page should display all relevant item information (Description, Image, Category, SKU, Price, and 'Date Last Updated').",
+    "**Acceptance Criteria: Redirection** \n\n * Upon clicking on a specific item, the user is redirected to a new page with the detailed item information."
+  ],
+  "roles": [
+    "user"
+  ],
+  "nonfunctional": [],
+  "out_of_scope": [],
+  "risks": []
+}
