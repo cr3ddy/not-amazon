@@ -1,0 +1,31 @@
+{
+  "issue_key": "NAP-2",
+  "coverage_map": [
+    {
+      "ac": "AC-1",
+      "tests": [
+        "unit:test_item_details.py"
+      ]
+    },
+    {
+      "ac": "AC-2",
+      "tests": [
+        "integration:test_item_details_with_image.py"
+      ]
+    },
+    {
+      "ac": "AC-3",
+      "tests": [
+        "e2e:test_view_item_details.js"
+      ]
+    }
+  ],
+  "negative_cases": [
+    "When I click on a non-existent item, the system should display an error message."
+  ],
+  "data_setup": [],
+  "e2e_smoke": [
+    "Click on a random item in the inventory list and verify that it redirects to the detailed view page with all relevant information"
+  ],
+  "notes": []
+}
