@@ -1,0 +1,10 @@
+{
+  "issue_key": "NAP-2",
+  "stage": "implementation",
+  "passed": true,
+  "evidence": [
+    "[1] cmd /c echo implementation gate: placeholder => rc=0 (0.02s)",
+    "  \"implementation gate: placeholder\""
+  ],
+  "blockers": []
+}

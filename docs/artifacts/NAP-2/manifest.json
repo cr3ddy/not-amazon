@@ -1,0 +1,16 @@
+{
+  "issue_key": "NAP-2",
+  "issue_summary": "View Item Details",
+  "artifact_count": 9,
+  "artifacts": [
+    "docs/artifacts/NAP-2/README.md",
+    "docs/artifacts/NAP-2/test_plan.md",
+    "docs/artifacts/NAP-2/threat_checklist.md",
+    "docs/artifacts/NAP-2/runbook.md",
+    "docs/artifacts/NAP-2/adr.md",
+    "docs/artifacts/NAP-2/story_capsule.json",
+    "docs/artifacts/NAP-2/execution_plan.json",
+    "docs/artifacts/NAP-2/test_plan.json",
+    "docs/artifacts/NAP-2/gate_report.json"
+  ]
+}
